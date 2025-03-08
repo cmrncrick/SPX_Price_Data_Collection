@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "formatters": {
+        "simple": {
+            "format": "%(asctime)s: %(levelname)s -- %(lineno)d -- %(message)s"
+        },
+        "detailed": {
+            "format": "%(asctime)s: %(levelname)s -- %(module)s -- Line: %(lineno)d -- %(message)s",
+            "datefmt": "%Y-%m-%d %H:%M:%S"
+        }
+    },
+    "handlers": {
+        "standard": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "INFO",
+            "formatter": "detailed",
+            "filename": "PLACEHOLDER_PATH"
+        }
+    },
+    "loggers": {
+        "root": {
+            "level": "INFO",
+            "handlers": [
+                "standard"
+            ]
+        }
+    }
+}
