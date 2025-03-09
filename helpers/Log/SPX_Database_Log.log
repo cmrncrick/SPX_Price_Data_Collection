@@ -1,0 +1,6 @@
+2025-03-09 07:53:54: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-09 07:53:54: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-09 07:53:54: INFO -- database_run -- Line: 11 -- ['spx_1m', 'spx_5m', 'spx_15m', 'spx_1h', 'spx_1d', 'spx_1wk']
+2025-03-09 07:53:54: INFO -- database_run -- Line: 12 -- Run without deleting log to see if it will populate existing log from another machine.
