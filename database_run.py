@@ -7,6 +7,8 @@ from helpers.constants import TICKER, TABLE_TICKER, PERIOD, INTERVALS
 from helpers.functions import max_date_existing
 from helpers.log_setup import logger
 
+logger.critical("***** TEST TEST *****")
+
 engine = create_engine("sqlite:///SPX_Price_DB.db")
 
 # Creating list of table names
