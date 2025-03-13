@@ -1,0 +1,60 @@
+2025-03-10 11:30:02: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-10 11:30:02: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-10 11:30:03: INFO -- database_run -- Line: 49 -- 181 have been imported to spx_1m.
+2025-03-10 11:30:03: INFO -- database_run -- Line: 49 -- 37 have been imported to spx_5m.
+2025-03-10 11:30:03: INFO -- database_run -- Line: 49 -- 13 have been imported to spx_15m.
+2025-03-10 11:30:03: INFO -- database_run -- Line: 49 -- 4 have been imported to spx_1h.
+2025-03-10 11:30:04: INFO -- database_run -- Line: 49 -- 1 have been imported to spx_1d.
+2025-03-10 11:30:05: INFO -- database_run -- Line: 49 -- 1 have been imported to spx_1wk.
+2025-03-10 15:02:02: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-10 15:02:02: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-10 15:02:03: INFO -- database_run -- Line: 49 -- 209 have been imported to spx_1m.
+2025-03-10 15:02:03: INFO -- database_run -- Line: 49 -- 41 have been imported to spx_5m.
+2025-03-10 15:02:03: INFO -- database_run -- Line: 49 -- 13 have been imported to spx_15m.
+2025-03-10 15:02:03: INFO -- database_run -- Line: 49 -- 3 have been imported to spx_1h.
+2025-03-10 15:02:04: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1d.
+2025-03-10 15:02:05: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1wk.
+2025-03-11 11:30:02: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-11 11:30:02: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-11 11:30:03: INFO -- database_run -- Line: 49 -- 180 have been imported to spx_1m.
+2025-03-11 11:30:04: INFO -- database_run -- Line: 49 -- 37 have been imported to spx_5m.
+2025-03-11 11:30:04: INFO -- database_run -- Line: 49 -- 13 have been imported to spx_15m.
+2025-03-11 11:30:04: INFO -- database_run -- Line: 49 -- 4 have been imported to spx_1h.
+2025-03-11 11:30:06: INFO -- database_run -- Line: 49 -- 1 have been imported to spx_1d.
+2025-03-11 11:30:06: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1wk.
+2025-03-11 15:02:02: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-11 15:02:02: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-11 15:02:03: INFO -- database_run -- Line: 49 -- 210 have been imported to spx_1m.
+2025-03-11 15:02:03: INFO -- database_run -- Line: 49 -- 41 have been imported to spx_5m.
+2025-03-11 15:02:03: INFO -- database_run -- Line: 49 -- 13 have been imported to spx_15m.
+2025-03-11 15:02:03: INFO -- database_run -- Line: 49 -- 3 have been imported to spx_1h.
+2025-03-11 15:02:04: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1d.
+2025-03-11 15:02:05: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1wk.
+2025-03-12 11:30:02: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-12 11:30:02: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-12 11:30:03: INFO -- database_run -- Line: 49 -- 181 have been imported to spx_1m.
+2025-03-12 11:30:03: INFO -- database_run -- Line: 49 -- 37 have been imported to spx_5m.
+2025-03-12 11:30:04: INFO -- database_run -- Line: 49 -- 13 have been imported to spx_15m.
+2025-03-12 11:30:04: INFO -- database_run -- Line: 49 -- 4 have been imported to spx_1h.
+2025-03-12 11:30:05: INFO -- database_run -- Line: 49 -- 1 have been imported to spx_1d.
+2025-03-12 11:30:05: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1wk.
+2025-03-12 15:02:02: INFO -- log_setup -- Line: 66 -- 
+
+----------------------------------------------------------------------------------------------------
+2025-03-12 15:02:02: INFO -- log_setup -- Line: 75 -- Logger initialized successfully.
+2025-03-12 15:02:03: INFO -- database_run -- Line: 49 -- 209 have been imported to spx_1m.
+2025-03-12 15:02:03: INFO -- database_run -- Line: 49 -- 41 have been imported to spx_5m.
+2025-03-12 15:02:04: INFO -- database_run -- Line: 49 -- 13 have been imported to spx_15m.
+2025-03-12 15:02:04: INFO -- database_run -- Line: 49 -- 3 have been imported to spx_1h.
+2025-03-12 15:02:05: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1d.
+2025-03-12 15:02:05: INFO -- database_run -- Line: 49 -- 0 have been imported to spx_1wk.
