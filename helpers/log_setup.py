@@ -1,39 +1,6 @@
-# import os
-# import json
-# import logging
-# from logging import config, handlers
-
-# # Getting current directory
-# current_dir = os.path.dirname(os.path.abspath(__file__))
-# config_dir = os.path.join(current_dir, "log_config.json")
-
-# # os.makedirs(config_dir, exist_ok=True)
-
-# # Setting up logger
-# logger = logging.getLogger("__name__")
-
-
-# def setup_logger():
-
-#     with open("log_config.json", "r") as f_in:
-#         config = json.load(f_in)
-
-#     config["handlers"]["standard"]["filename"] = os.path.join(
-#         config_dir, "SPX_Database_Log")
-
-#     logging.config.dictConfig(config)
-
-#     logger.info("\n\n--------------------------------------------------\
-# --------------------------------------------------")
-
-#     return logger
-
-
-# logger = setup_logger()
-
-import os
 import json
 import logging
+import os
 from logging import config, handlers
 
 # Getting current directory
